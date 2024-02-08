@@ -1,0 +1,38 @@
+---
+title: "geospatial data"
+author: "Aaryan"
+date: "2024-02-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readxl)
+library(dplyr)
+```
+
+```{r data read}
+agencyCodes <- read_excel("NC Schools/2022-23 Agency Number to School Region.xlsx")
+glimpse(agencyCodes)
+
+credentials <- read_excel("/Users/aaryan/Documents/Thons/nc education datathon 2024/src_datasets-SY21-22/rcd_cte_credentials.xlsx")
+glimpse(credentials)
+
+location <- read_excel("/Users/aaryan/Documents/Thons/nc education datathon 2024/src_datasets-SY21-22/rcd_location.xlsx")
+glimpse(location)
+
+enrollment <- read_excel("/Users/aaryan/Documents/Thons/nc education datathon 2024/src_datasets-SY21-22/rcd_cte_enrollment.xlsx")
+glimpse(location)
+
+funds <- read_excel("/Users/aaryan/Documents/Thons/nc education datathon 2024/src_datasets-SY21-22/rcd_funds2.xlsx")
+glimpse(funds)
+
+concentrators <- read_excel("/Users/aaryan/Documents/Thons/nc education datathon 2024/src_datasets-SY21-22/rcd_cte_concentrators.xlsx")
+glimpse(concentrators)
+```
+
+```{r}
+data <- agencyCodes %>% left_join(credentials, by = join_by("School\r\nCode"  == agency_code))
+data <- data %>%  left_join(select(location, c()), by = join_by("School\r\nCode"  == agency_code), multiple = "first")
+```
+
