@@ -1,0 +1,16 @@
+---
+title: "geospatial data"
+author: "Aaryan"
+date: "2024-02-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readxl)
+```
+
+```{r}
+agencyCodes <- read_excel("2022-23 Agency Number to School Region.xlsx")
+```
+
