@@ -1503,181 +1503,181 @@ year,school_name,street_addr,county,city,zip,district_name,designation,title_i,n
 2020,West McDowell Middle School,346 West McDowell Junior High,McDowell,Marion,28752,McDowell County Schools,Public,No,0,462,684,0.6754000000000001,389051,310611,253894,242113,281514,209243.5
 2020,Foothills Community School,346 West McDowell School Road,McDowell,Marion,28752,McDowell County Schools,Public,No,0,89,189,0.47090000000000004,389051,310611,253894,242113,281514,209243.5
 2020,McDowell County Schools,334 South Main St,McDowell,Marion,28752,McDowell County Schools,Public,No,1126,2090,3689,0.5665,0,0,0,0,0,0
-2020,Albemarle Road Elementary,7800 Riding Trail Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Albemarle Road Middle,6900 Democracy Drive,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,817,1084,0.7537,0,0,0,0,0,0
-2020,Ardrey Kell High School,10220 Ardrey Kell Road,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,1020,2230,3343,0.6670999999999999,0,0,0,0,0,0
-2020,Charlotte East Language Academy,6108 Wilora Lake Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,100,589,0.1698,0,0,0,0,0,0
-2020,J. M. Alexander Middle,12010 Hambright Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,908,965,0.9409000000000001,0,0,0,0,0,0
-2020,Allenbrook Elementary,1430 Allenbrook Dr,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Ashley Park PreK-8 School,2401 Belfast Dr,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,64,448,0.1429,0,0,0,0,0,0
-2020,William Amos Hough High School,12420 Bailey Rd,Mecklenburg,Cornelius,28031,Charlotte-Mecklenburg Schools,Public,No,226,1481,2451,0.6042000000000001,0,0,0,0,0,0
-2020,Bailey Middle School,11900 Bailey Rd,Mecklenburg,Cornelius,28031,Charlotte-Mecklenburg Schools,Public,No,0,1083,1673,0.6473,0,0,0,0,0,0
-2020,Bain Elementary,11540 Bain School Rd,Mecklenburg,Charlotte,28227,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Barringer Academic Center,1546 Walton Rd,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Whitewater Middle,10201 Running Rapids Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,777,830,0.9361,0,0,0,0,0,0
-2020,Whitewater Academy,11600 White Rapids Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Berryhill School,10501 Windy Grove Rd,Mecklenburg,Charlotte,28278,Charlotte-Mecklenburg Schools,Public,Yes,0,92,462,0.1991,0,0,0,0,0,0
-2020,Beverly Woods Elementary,6001 Quail Hollow Rd,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Barnette Elementary,13659 Beatties Ford Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Briarwood Academy,1001 Wilann Dr,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Carmel Middle,5001 Camilla Dr,Mecklenburg,Charlotte,28226,Charlotte-Mecklenburg Schools,Public,No,0,890,1230,0.7236,0,0,0,0,0,0
-2020,Cato Middle College High School,8120 Grier Rd   Suite 171-B,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,No,0,58,217,0.2673,0,0,0,0,0,0
-2020,Billingsville Elementary,124 Skyland Ave,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Chantilly Montessori,701 Briar Creek Rd,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Clear Creek Elementary,13501 Albemarle Rd,Mecklenburg,Charlotte,28227,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Cochrane Collegiate Academy,6200 Starhaven Dr,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,15,774,926,0.8359000000000001,0,0,0,0,0,0
-2020,Collinswood Language Academy,5621 Flagstaff Drive,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,No,0,126,765,0.16469999999999999,0,0,0,0,0,0
-2020,Community House Middle,9500 Community House Rd,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,1189,1950,0.6097,0,0,0,0,0,0
-2020,Cornelius Elementary,21126 Catawba Ave,Mecklenburg,Cornelius,28031,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Cotswold Elementary,300 Greenwich Rd,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Coulwood STEM Academy,500 Kentberry Dr,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,715,0.95,0,0,0,0,0,0
-2020,Crown Point Elementary,3335 Sam Newell Rd,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Crestdale Middle,940 Sam Newell Rd,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,579,1004,0.5767,0,0,0,0,0,0
-2020,Davidson K-8 School,635 South St,Mecklenburg,Davidson,28036,Charlotte-Mecklenburg Schools,Public,No,0,110,824,0.1335,0,0,0,0,0,0
-2020,David W Butler High School,1810 Matthews-Mint Hill Rd,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,189,1314,1968,0.6677,0,0,0,0,0,0
-2020,David Cox Road Elementary,4215 David Cox Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Military and Global Leadership,"1411 Hawthorne Lane, Ste A",Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,275,160,177,0.904,0,0,0,0,0,0
-2020,Devonshire Elementary,6500 Barrington Dr,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Marie G Davis School,3351 Griffith St,Mecklenburg,Charlotte,28203,Charlotte-Mecklenburg Schools,Public,Yes,0,149,474,0.3143,0,0,0,0,0,0
-2020,Dilworth Elementary School: Latta Campus,405 E. Park Ave,Mecklenburg,Charlotte,28203,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,First Ward Creative Arts Acad,715 N. Caldwell St,Mecklenburg,Charlotte,28202,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Berewick Elementary,5910 Dixie River Rd,Mecklenburg,Charlotte,28278,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Druid Hills Academy,2801 Lucena Ave,Mecklenburg,Charlotte,28206,Charlotte-Mecklenburg Schools,Public,Yes,0,143,402,0.3557,0,0,0,0,0,0
-2020,East Mecklenburg High School,6800 Monroe Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,No,159,1308,1995,0.6556000000000001,0,0,0,0,0,0
-2020,Eastover Elementary,500 Cherokee Rd,Mecklenburg,Charlotte,28207,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Eastway Middle,1501 Norland Rd,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,744,920,0.8087000000000001,0,0,0,0,0,0
-2020,Elizabeth Lane Elementary,121 Elizabeth Ln,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Elon Park Elementary,11425 Ardrey Kell Rd,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Elizabeth Traditional Elem,1601 Park Dr,Mecklenburg,Charlotte,28204,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Endhaven Elementary,6815 Endhaven Ln,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Hawthorne Academy of Health Sciences,1411 Hawthorne Ln,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,No,54,0,274,0.95,0,0,0,0,0,0
-2020,Polo Ridge Elementary,11830 Tom Short Rd,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Francis Bradley Middle,13345 Beatties Ford Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,578,1080,0.5352,0,0,0,0,0,0
-2020,Garinger High School,1100 Eastway Dr,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,85,1006,1661,0.6057,0,0,0,0,0,0
-2020,Greenway Park Elementary,8301 Monroe Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Alexander Graham Middle,1800 Runnymede Lane,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,No,0,739,1357,0.5446,0,0,0,0,0,0
-2020,Harper Middle College High,315 W Hebron St,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,43,195,0.2205,0,0,0,0,0,0
-2020,Harding University High School,2001 Alleghany St,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,328,949,1503,0.6314,0,0,0,0,0,0
-2020,Hawk Ridge Elementary,9201 Bryant Farms Rd,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Lawrence Orr Elementary School,4835 Shamrock Dr,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Parkside Elementary School,2945 Johnston-Oehler Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Hickory Grove Elementary,6709 Pence Rd,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Highland Creek Elementary,7242 Highland Creek Pkwy,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Hidden Valley Elementary,5100 Snow White Ln,Mecklenburg,Charlotte,28213,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Highland Mill Montessori Elementary,3201 Clemson Ave,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Highland Renaissance Academy,125 W Craighead Rd,Mecklenburg,Charlotte,28206,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Hopewell High School,11530 Beatties Ford Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,270,1279,1788,0.7153,0,0,0,0,0,0
-2020,Hornets Nest Elementary,6700 Beatties Ford Rd,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Croft Community School,4911 Hucks Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Huntersville Elementary,200 Gilead Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Huntingtowne Farms Elementary,2520 Huntingtowne Farms Ln,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Idlewild Elementary,7101 Idlewild Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Independence High School,1967 Patriot Dr,Mecklenburg,Charlotte,28227,Charlotte-Mecklenburg Schools,Public,No,856,1458,2130,0.6845,0,0,0,0,0,0
-2020,James Martin Middle,6301 University Pointe Blvd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,0,636,737,0.863,0,0,0,0,0,0
-2020,Gov's Village STEM (Upper),7810 Neal Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,No,0,362,847,0.4274,0,0,0,0,0,0
-2020,Jay M. Robinson Middle,5925 Ballantyne Commons Pkwy,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,885,1225,0.7223999999999999,0,0,0,0,0,0
-2020,Joseph W Grier Academy,8330 Grier Rd,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,J.V. Washam Elementary,9611 Westmoreland Rd,Mecklenburg,Cornelius,28031,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Robert F. Kennedy Middle,4000 Gallant Ln,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,853,1063,0.8024,0,0,0,0,0,0
-2020,Trillium Springs Montessori,9213 Beatties Ford Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Lake Wylie Elementary,13620 Erwin Rd,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Ballantyne Elementary,15425 Scholastic Dr,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Lansdowne Elementary,6400 Prett Ct,Mecklenburg,Charlotte,28270,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Turning Point Academy,8701 Moores Chapel Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,24,199,250,0.7959999999999999,0,0,0,0,0,0
-2020,Lebanon Road Elementary,7300 Lebanon Rd,Mecklenburg,Charlotte,28227,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Legette Blythe Elementary,12202 Hambright Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Levine Middle College High Sch,2728 Campus Ridge Rd,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,66,226,0.292,0,0,0,0,0,0
-2020,Long Creek Elementary,9213-A Beatties Ford Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Mallard Creek High School,3825 Johnston Oehler Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,No,577,1526,2373,0.6431,0,0,0,0,0,0
-2020,Mallard Creek Elementary,9801 Mallard Creek Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Matthews Elementary,200 E McDowell St,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,"Martin Luther King, Jr Middle",500 Bilmark Ave,Mecklenburg,Charlotte,28213,Charlotte-Mecklenburg Schools,Public,Yes,0,698,920,0.7587,0,0,0,0,0,0
-2020,McAlpine Elementary,9100 Carswell Ln,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,McClintock Middle,1925 Rama Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,794,1191,0.6667000000000001,0,0,0,0,0,0
-2020,McKee Road Elementary,4101 McKee Rd,Mecklenburg,Charlotte,28270,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Merry Oaks International Acad,3508 Draper Ave,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Metro School,405 S. Davidson St,Mecklenburg,Charlotte,28202,Charlotte-Mecklenburg Schools,Public,No,0,159,236,0.6737000000000001,0,0,0,0,0,0
-2020,Mint Hill Middle School,11501 Idewild Rd,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,734,1086,0.6759000000000001,0,0,0,0,0,0
-2020,Rocky River High School,10505 Clear Creek Commerce Dr,Mecklenburg,Mint Hill,28227,Charlotte-Mecklenburg Schools,Public,No,64,953,1415,0.6735,0,0,0,0,0,0
-2020,Montclaire Elementary,5801 Farmbrook Dr,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Charlotte-Mecklenburg Academy,5833 Millhaven Lane,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,Yes,0,20,76,0.2632,0,0,0,0,0,0
-2020,Mountain Island Lake Academy,7905 Pleasant Grove Rd,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,0,194,748,0.2594,0,0,0,0,0,0
-2020,River Oaks Academy,1015 Mt Holly-Huntersville Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Myers Park Traditional Elem,2132 Radcliffe Ave,Mecklenburg,Charlotte,28207,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Myers Park High School,2400 Colony Rd,Mecklenburg,Charlotte,28209,Charlotte-Mecklenburg Schools,Public,No,389,1761,3516,0.5009,0,0,0,0,0,0
-2020,Gov's Village STEM (Lower),7910 Neal Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Nations Ford Elementary,7050 Nations Ford Rd,Mecklenburg,Charlotte,28217,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Newell Elementary,"325 Rocky River Road, West",Mecklenburg,Charlotte,28213,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Dorothy J. Vaughan Academy of Technology,8601 Old Concord Rd,Mecklenburg,Charlotte,28213,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,J. H. Gunn Elementary,7400 Harrisburg Rd,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Northeast Middle,5960 Brickstone Dr,Mecklenburg,Charlotte,28227,Charlotte-Mecklenburg Schools,Public,Yes,0,589,635,0.9276000000000001,0,0,0,0,0,0
-2020,North Mecklenburg High School,11201 Old Statesville Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,100,1343,2091,0.6423000000000001,0,0,0,0,0,0
-2020,Northridge Middle,7601 The Plaza,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,841,1007,0.8351999999999999,0,0,0,0,0,0
-2020,Northwest School of the Arts,1415 Beatties Ford Rd,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,No,0,494,1120,0.4411,0,0,0,0,0,0
-2020,Oakhurst STEAM Academy,4511 Monroe Rd,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Oakdale Elementary,1825 Oakdale Rd,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Oaklawn Language Academy,1810 Oaklawn Ave,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,No,0,136,592,0.2297,0,0,0,0,0,0
-2020,Bruns Avenue Elementary,501 S. Bruns Ave,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Olympic High School,4301 Sandy Porter Rd,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,618,1890,2470,0.7652,0,0,0,0,0,0
-2020,Olde Providence Elementary,3800 Rea Rd,Mecklenburg,Charlotte,28226,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Park Road Montessori,3701 Haven Dr,Mecklenburg,Charlotte,28209,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Palisades Park Elementary,15321 York Rd,Mecklenburg,Charlotte,28278,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Paw Creek Elementary,1300 Cathey Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Phillip O. Berry Academy of Technology,1430 Alleghany St,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,No,274,1519,1758,0.8641,0,0,0,0,0,0
-2020,Piedmont Middle School,1241 E 10th St,Mecklenburg,Charlotte,28204,Charlotte-Mecklenburg Schools,Public,No,0,250,1093,0.22870000000000001,0,0,0,0,0,0
-2020,Performance Learning Center,2300 W Sugar Creek Road,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,19,93,121,0.7686,0,0,0,0,0,0
-2020,Char-Meck Virtual High School,1900 Newcastle St,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,No,27,127,223,0.5695,0,0,0,0,0,0
-2020,Pineville Elementary,204 Lowry St,Mecklenburg,Pineville,28134,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Pinewood Elementary,805 Seneca Pl,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Piney Grove Elementary,8801 Eaglewind Dr,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Providence Spring Elementary,10045 Providence Church Ln,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Providence High School,1800 Pineville-Matthews Rd,Mecklenburg,Charlotte,28270,Charlotte-Mecklenburg Schools,Public,No,346,1335,1969,0.6779999999999999,0,0,0,0,0,0
-2020,Quail Hollow Middle,2901 Smithfield Church Rd,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,Yes,0,797,1247,0.6391,0,0,0,0,0,0
-2020,Rama Road Elementary,1035 Rama Rd,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Randolph IB Middle,4400 Water Oak Rd,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,No,0,534,1176,0.45409999999999995,0,0,0,0,0,0
-2020,Ranson Middle,5850 Statesville Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,Yes,0,986,1043,0.9453,0,0,0,0,0,0
-2020,Renaissance West STEAM Academy,3241 New Renaissance Way,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,140,653,0.2144,0,0,0,0,0,0
-2020,Reedy Creek Elementary,10801 Plaza Rd Ext,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Reid Park Academy,4108 W Tyvola Rd,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Ridge Road Middle,7260 Highland Creek Pkwy,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,No,0,1021,1343,0.7602,0,0,0,0,0,0
-2020,Dilworth Elem Sedgefield Campus,715 Hartford Ave,Mecklenburg,Charlotte,28209,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Sedgefield Middle,2700 Dorchester Pl,Mecklenburg,Charlotte,28209,Charlotte-Mecklenburg Schools,Public,Yes,0,329,541,0.6081,0,0,0,0,0,0
-2020,Stoney Creek Elementary,14015 Mallard Roost Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Selwyn Elementary,2840 Colony Rd,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Shamrock Gardens Elementary,1900 Newcastle St,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Sharon Elementary,4330 Foxcroft Rd,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,E. E. Waddell Language Academy,7030 Nations Ford Rd,Mecklenburg,Charlotte,28217,Charlotte-Mecklenburg Schools,Public,No,0,172,1343,0.1281,0,0,0,0,0,0
-2020,Smithfield Elementary,3200 Smithfield Church Rd,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,South Mecklenburg High School,8900 Park Rd,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,No,278,1977,3158,0.626,0,0,0,0,0,0
-2020,South Charlotte Middle,8040 Strawberry Ln,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,634,946,0.6701999999999999,0,0,0,0,0,0
-2020,Southwest Middle School,13624 Steele Creek Rd,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,1285,1472,0.873,0,0,0,0,0,0
-2020,Starmount Academy of Excellen,1600 Brookdale Ave,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Statesville Road Elementary,5521 Milhaven Ln,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Steele Creek Elementary,4100 Gallant Ln,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Sterling Elementary,9601 China Grove Church Rd,Mecklenburg,Pineville,28134,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Thomasboro Academy,538 Bradford Dr,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,206,647,0.3184,0,0,0,0,0,0
-2020,Torrence Creek Elementary,14550 Ranson Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Grand Oak Elementary School,15410 Stumptown Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Tuckaseegee Elementary,2028 Little Rock Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,University Park Creative Arts,2400 Hildebrand St,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,University Meadows Elementary,1600 Pavilion Blvd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Char Eng Early College-UNCC,9000 Robert Snyder Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,No,64,260,284,0.9155,0,0,0,0,0,0
-2020,Charlotte Teacher Early College,9000 Robert D. Snyder Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,No,0,0,143,0.05,0,0,0,0,0,0
-2020,Irwin Academic Center,329 N. Irwin Ave,Mecklenburg,Charlotte,28202,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Walter G. Byers School,1415 Hamilton St,Mecklenburg,Charlotte,28206,Charlotte-Mecklenburg Schools,Public,Yes,0,65,337,0.1929,0,0,0,0,0,0
-2020,West Charlotte High School,2219 Senior Dr,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,113,827,1329,0.6223,0,0,0,0,0,0
-2020,Westerly Hills Academy,4420 Denver Ave,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,West Mecklenburg High School,7400 Tuckaseegee Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,608,919,1111,0.8271999999999999,0,0,0,0,0,0
-2020,Williams Secondary Montessori,2400 Carmine St,Mecklenburg,Charlotte,28206,Charlotte-Mecklenburg Schools,Public,No,0,139,271,0.5129,0,0,0,0,0,0
-2020,Wilson STEM Academy,7020 Tuckaseegee Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,501,0.95,0,0,0,0,0,0
-2020,Winding Springs Elementary,6601 Horace Mann Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Windsor Park Elementary,3910 Sudbury Rd,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Winget Park Elementary,12235 Winget Rd,Mecklenburg,Charlotte,28278,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Winterfield Elementary,3100 Winterfield Pl,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,River Gate Elementary,15340 Smith Rd,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,0,0,0,0,0,0
-2020,Zebulon B. Vance High School,7600 IBM Dr,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,38,1421,1984,0.7162000000000001,0,0,0,0,0,0
-2020,Villa Heights Elementary,800 Everett Place,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,0,0,0,0,0,0
-2020,Merancas Middle College-CPCC,11930 Verhoeff Dr,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,71,175,0.4057,0,0,0,0,0,0
+2020,Albemarle Road Elementary,7800 Riding Trail Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Albemarle Road Middle,6900 Democracy Drive,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,817,1084,0.7537,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Ardrey Kell High School,10220 Ardrey Kell Road,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,1020,2230,3343,0.6670999999999999,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Charlotte East Language Academy,6108 Wilora Lake Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,100,589,0.1698,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,J. M. Alexander Middle,12010 Hambright Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,908,965,0.9409000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Allenbrook Elementary,1430 Allenbrook Dr,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Ashley Park PreK-8 School,2401 Belfast Dr,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,64,448,0.1429,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,William Amos Hough High School,12420 Bailey Rd,Mecklenburg,Cornelius,28031,Charlotte-Mecklenburg Schools,Public,No,226,1481,2451,0.6042000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Bailey Middle School,11900 Bailey Rd,Mecklenburg,Cornelius,28031,Charlotte-Mecklenburg Schools,Public,No,0,1083,1673,0.6473,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Bain Elementary,11540 Bain School Rd,Mecklenburg,Charlotte,28227,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Barringer Academic Center,1546 Walton Rd,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Whitewater Middle,10201 Running Rapids Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,777,830,0.9361,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Whitewater Academy,11600 White Rapids Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Berryhill School,10501 Windy Grove Rd,Mecklenburg,Charlotte,28278,Charlotte-Mecklenburg Schools,Public,Yes,0,92,462,0.1991,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Beverly Woods Elementary,6001 Quail Hollow Rd,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Barnette Elementary,13659 Beatties Ford Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Briarwood Academy,1001 Wilann Dr,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Carmel Middle,5001 Camilla Dr,Mecklenburg,Charlotte,28226,Charlotte-Mecklenburg Schools,Public,No,0,890,1230,0.7236,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Cato Middle College High School,8120 Grier Rd   Suite 171-B,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,No,0,58,217,0.2673,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Billingsville Elementary,124 Skyland Ave,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Chantilly Montessori,701 Briar Creek Rd,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Clear Creek Elementary,13501 Albemarle Rd,Mecklenburg,Charlotte,28227,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Cochrane Collegiate Academy,6200 Starhaven Dr,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,15,774,926,0.8359000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Collinswood Language Academy,5621 Flagstaff Drive,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,No,0,126,765,0.16469999999999999,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Community House Middle,9500 Community House Rd,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,1189,1950,0.6097,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Cornelius Elementary,21126 Catawba Ave,Mecklenburg,Cornelius,28031,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Cotswold Elementary,300 Greenwich Rd,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Coulwood STEM Academy,500 Kentberry Dr,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,715,0.95,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Crown Point Elementary,3335 Sam Newell Rd,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Crestdale Middle,940 Sam Newell Rd,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,579,1004,0.5767,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Davidson K-8 School,635 South St,Mecklenburg,Davidson,28036,Charlotte-Mecklenburg Schools,Public,No,0,110,824,0.1335,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,David W Butler High School,1810 Matthews-Mint Hill Rd,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,189,1314,1968,0.6677,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,David Cox Road Elementary,4215 David Cox Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Military and Global Leadership,"1411 Hawthorne Lane, Ste A",Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,275,160,177,0.904,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Devonshire Elementary,6500 Barrington Dr,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Marie G Davis School,3351 Griffith St,Mecklenburg,Charlotte,28203,Charlotte-Mecklenburg Schools,Public,Yes,0,149,474,0.3143,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Dilworth Elementary School: Latta Campus,405 E. Park Ave,Mecklenburg,Charlotte,28203,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,First Ward Creative Arts Acad,715 N. Caldwell St,Mecklenburg,Charlotte,28202,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Berewick Elementary,5910 Dixie River Rd,Mecklenburg,Charlotte,28278,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Druid Hills Academy,2801 Lucena Ave,Mecklenburg,Charlotte,28206,Charlotte-Mecklenburg Schools,Public,Yes,0,143,402,0.3557,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,East Mecklenburg High School,6800 Monroe Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,No,159,1308,1995,0.6556000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Eastover Elementary,500 Cherokee Rd,Mecklenburg,Charlotte,28207,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Eastway Middle,1501 Norland Rd,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,744,920,0.8087000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Elizabeth Lane Elementary,121 Elizabeth Ln,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Elon Park Elementary,11425 Ardrey Kell Rd,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Elizabeth Traditional Elem,1601 Park Dr,Mecklenburg,Charlotte,28204,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Endhaven Elementary,6815 Endhaven Ln,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Hawthorne Academy of Health Sciences,1411 Hawthorne Ln,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,No,54,0,274,0.95,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Polo Ridge Elementary,11830 Tom Short Rd,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Francis Bradley Middle,13345 Beatties Ford Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,578,1080,0.5352,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Garinger High School,1100 Eastway Dr,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,85,1006,1661,0.6057,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Greenway Park Elementary,8301 Monroe Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Alexander Graham Middle,1800 Runnymede Lane,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,No,0,739,1357,0.5446,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Harper Middle College High,315 W Hebron St,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,43,195,0.2205,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Harding University High School,2001 Alleghany St,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,328,949,1503,0.6314,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Hawk Ridge Elementary,9201 Bryant Farms Rd,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Lawrence Orr Elementary School,4835 Shamrock Dr,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Parkside Elementary School,2945 Johnston-Oehler Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Hickory Grove Elementary,6709 Pence Rd,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Highland Creek Elementary,7242 Highland Creek Pkwy,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Hidden Valley Elementary,5100 Snow White Ln,Mecklenburg,Charlotte,28213,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Highland Mill Montessori Elementary,3201 Clemson Ave,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Highland Renaissance Academy,125 W Craighead Rd,Mecklenburg,Charlotte,28206,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Hopewell High School,11530 Beatties Ford Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,270,1279,1788,0.7153,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Hornets Nest Elementary,6700 Beatties Ford Rd,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Croft Community School,4911 Hucks Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Huntersville Elementary,200 Gilead Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Huntingtowne Farms Elementary,2520 Huntingtowne Farms Ln,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Idlewild Elementary,7101 Idlewild Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Independence High School,1967 Patriot Dr,Mecklenburg,Charlotte,28227,Charlotte-Mecklenburg Schools,Public,No,856,1458,2130,0.6845,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,James Martin Middle,6301 University Pointe Blvd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,0,636,737,0.863,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Gov's Village STEM (Upper),7810 Neal Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,No,0,362,847,0.4274,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Jay M. Robinson Middle,5925 Ballantyne Commons Pkwy,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,885,1225,0.7223999999999999,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Joseph W Grier Academy,8330 Grier Rd,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,J.V. Washam Elementary,9611 Westmoreland Rd,Mecklenburg,Cornelius,28031,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Robert F. Kennedy Middle,4000 Gallant Ln,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,853,1063,0.8024,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Trillium Springs Montessori,9213 Beatties Ford Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Lake Wylie Elementary,13620 Erwin Rd,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Ballantyne Elementary,15425 Scholastic Dr,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Lansdowne Elementary,6400 Prett Ct,Mecklenburg,Charlotte,28270,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Turning Point Academy,8701 Moores Chapel Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,24,199,250,0.7959999999999999,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Lebanon Road Elementary,7300 Lebanon Rd,Mecklenburg,Charlotte,28227,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Legette Blythe Elementary,12202 Hambright Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Levine Middle College High Sch,2728 Campus Ridge Rd,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,66,226,0.292,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Long Creek Elementary,9213-A Beatties Ford Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Mallard Creek High School,3825 Johnston Oehler Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,No,577,1526,2373,0.6431,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Mallard Creek Elementary,9801 Mallard Creek Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Matthews Elementary,200 E McDowell St,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,"Martin Luther King, Jr Middle",500 Bilmark Ave,Mecklenburg,Charlotte,28213,Charlotte-Mecklenburg Schools,Public,Yes,0,698,920,0.7587,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,McAlpine Elementary,9100 Carswell Ln,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,McClintock Middle,1925 Rama Rd,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,794,1191,0.6667000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,McKee Road Elementary,4101 McKee Rd,Mecklenburg,Charlotte,28270,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Merry Oaks International Acad,3508 Draper Ave,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Metro School,405 S. Davidson St,Mecklenburg,Charlotte,28202,Charlotte-Mecklenburg Schools,Public,No,0,159,236,0.6737000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Mint Hill Middle School,11501 Idewild Rd,Mecklenburg,Matthews,28105,Charlotte-Mecklenburg Schools,Public,No,0,734,1086,0.6759000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Rocky River High School,10505 Clear Creek Commerce Dr,Mecklenburg,Mint Hill,28227,Charlotte-Mecklenburg Schools,Public,No,64,953,1415,0.6735,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Montclaire Elementary,5801 Farmbrook Dr,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Charlotte-Mecklenburg Academy,5833 Millhaven Lane,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,Yes,0,20,76,0.2632,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Mountain Island Lake Academy,7905 Pleasant Grove Rd,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,0,194,748,0.2594,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,River Oaks Academy,1015 Mt Holly-Huntersville Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Myers Park Traditional Elem,2132 Radcliffe Ave,Mecklenburg,Charlotte,28207,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Myers Park High School,2400 Colony Rd,Mecklenburg,Charlotte,28209,Charlotte-Mecklenburg Schools,Public,No,389,1761,3516,0.5009,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Gov's Village STEM (Lower),7910 Neal Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Nations Ford Elementary,7050 Nations Ford Rd,Mecklenburg,Charlotte,28217,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Newell Elementary,"325 Rocky River Road, West",Mecklenburg,Charlotte,28213,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Dorothy J. Vaughan Academy of Technology,8601 Old Concord Rd,Mecklenburg,Charlotte,28213,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,J. H. Gunn Elementary,7400 Harrisburg Rd,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Northeast Middle,5960 Brickstone Dr,Mecklenburg,Charlotte,28227,Charlotte-Mecklenburg Schools,Public,Yes,0,589,635,0.9276000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,North Mecklenburg High School,11201 Old Statesville Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,100,1343,2091,0.6423000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Northridge Middle,7601 The Plaza,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,Yes,0,841,1007,0.8351999999999999,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Northwest School of the Arts,1415 Beatties Ford Rd,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,No,0,494,1120,0.4411,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Oakhurst STEAM Academy,4511 Monroe Rd,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Oakdale Elementary,1825 Oakdale Rd,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Oaklawn Language Academy,1810 Oaklawn Ave,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,No,0,136,592,0.2297,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Bruns Avenue Elementary,501 S. Bruns Ave,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Olympic High School,4301 Sandy Porter Rd,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,618,1890,2470,0.7652,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Olde Providence Elementary,3800 Rea Rd,Mecklenburg,Charlotte,28226,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Park Road Montessori,3701 Haven Dr,Mecklenburg,Charlotte,28209,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Palisades Park Elementary,15321 York Rd,Mecklenburg,Charlotte,28278,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Paw Creek Elementary,1300 Cathey Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Phillip O. Berry Academy of Technology,1430 Alleghany St,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,No,274,1519,1758,0.8641,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Piedmont Middle School,1241 E 10th St,Mecklenburg,Charlotte,28204,Charlotte-Mecklenburg Schools,Public,No,0,250,1093,0.22870000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Performance Learning Center,2300 W Sugar Creek Road,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,19,93,121,0.7686,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Char-Meck Virtual High School,1900 Newcastle St,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,No,27,127,223,0.5695,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Pineville Elementary,204 Lowry St,Mecklenburg,Pineville,28134,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Pinewood Elementary,805 Seneca Pl,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Piney Grove Elementary,8801 Eaglewind Dr,Mecklenburg,Charlotte,28212,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Providence Spring Elementary,10045 Providence Church Ln,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Providence High School,1800 Pineville-Matthews Rd,Mecklenburg,Charlotte,28270,Charlotte-Mecklenburg Schools,Public,No,346,1335,1969,0.6779999999999999,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Quail Hollow Middle,2901 Smithfield Church Rd,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,Yes,0,797,1247,0.6391,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Rama Road Elementary,1035 Rama Rd,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Randolph IB Middle,4400 Water Oak Rd,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,No,0,534,1176,0.45409999999999995,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Ranson Middle,5850 Statesville Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,Yes,0,986,1043,0.9453,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Renaissance West STEAM Academy,3241 New Renaissance Way,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,140,653,0.2144,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Reedy Creek Elementary,10801 Plaza Rd Ext,Mecklenburg,Charlotte,28215,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Reid Park Academy,4108 W Tyvola Rd,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Ridge Road Middle,7260 Highland Creek Pkwy,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,No,0,1021,1343,0.7602,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Dilworth Elem Sedgefield Campus,715 Hartford Ave,Mecklenburg,Charlotte,28209,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Sedgefield Middle,2700 Dorchester Pl,Mecklenburg,Charlotte,28209,Charlotte-Mecklenburg Schools,Public,Yes,0,329,541,0.6081,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Stoney Creek Elementary,14015 Mallard Roost Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Selwyn Elementary,2840 Colony Rd,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Shamrock Gardens Elementary,1900 Newcastle St,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Sharon Elementary,4330 Foxcroft Rd,Mecklenburg,Charlotte,28211,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,E. E. Waddell Language Academy,7030 Nations Ford Rd,Mecklenburg,Charlotte,28217,Charlotte-Mecklenburg Schools,Public,No,0,172,1343,0.1281,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Smithfield Elementary,3200 Smithfield Church Rd,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,South Mecklenburg High School,8900 Park Rd,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,No,278,1977,3158,0.626,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,South Charlotte Middle,8040 Strawberry Ln,Mecklenburg,Charlotte,28277,Charlotte-Mecklenburg Schools,Public,No,0,634,946,0.6701999999999999,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Southwest Middle School,13624 Steele Creek Rd,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,1285,1472,0.873,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Starmount Academy of Excellen,1600 Brookdale Ave,Mecklenburg,Charlotte,28210,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Statesville Road Elementary,5521 Milhaven Ln,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Steele Creek Elementary,4100 Gallant Ln,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Sterling Elementary,9601 China Grove Church Rd,Mecklenburg,Pineville,28134,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Thomasboro Academy,538 Bradford Dr,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,206,647,0.3184,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Torrence Creek Elementary,14550 Ranson Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Grand Oak Elementary School,15410 Stumptown Rd,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Tuckaseegee Elementary,2028 Little Rock Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,University Park Creative Arts,2400 Hildebrand St,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,University Meadows Elementary,1600 Pavilion Blvd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Char Eng Early College-UNCC,9000 Robert Snyder Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,No,64,260,284,0.9155,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Charlotte Teacher Early College,9000 Robert D. Snyder Rd,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,No,0,0,143,0.05,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Irwin Academic Center,329 N. Irwin Ave,Mecklenburg,Charlotte,28202,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Walter G. Byers School,1415 Hamilton St,Mecklenburg,Charlotte,28206,Charlotte-Mecklenburg Schools,Public,Yes,0,65,337,0.1929,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,West Charlotte High School,2219 Senior Dr,Mecklenburg,Charlotte,28216,Charlotte-Mecklenburg Schools,Public,Yes,113,827,1329,0.6223,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Westerly Hills Academy,4420 Denver Ave,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,West Mecklenburg High School,7400 Tuckaseegee Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,608,919,1111,0.8271999999999999,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Williams Secondary Montessori,2400 Carmine St,Mecklenburg,Charlotte,28206,Charlotte-Mecklenburg Schools,Public,No,0,139,271,0.5129,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Wilson STEM Academy,7020 Tuckaseegee Rd,Mecklenburg,Charlotte,28214,Charlotte-Mecklenburg Schools,Public,Yes,0,0,501,0.95,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Winding Springs Elementary,6601 Horace Mann Rd,Mecklenburg,Charlotte,28269,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Windsor Park Elementary,3910 Sudbury Rd,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Winget Park Elementary,12235 Winget Rd,Mecklenburg,Charlotte,28278,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Winterfield Elementary,3100 Winterfield Pl,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,River Gate Elementary,15340 Smith Rd,Mecklenburg,Charlotte,28273,Charlotte-Mecklenburg Schools,Public,No,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Zebulon B. Vance High School,7600 IBM Dr,Mecklenburg,Charlotte,28262,Charlotte-Mecklenburg Schools,Public,Yes,38,1421,1984,0.7162000000000001,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Villa Heights Elementary,800 Everett Place,Mecklenburg,Charlotte,28205,Charlotte-Mecklenburg Schools,Public,Yes,0,0,0,0,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
+2020,Merancas Middle College-CPCC,11930 Verhoeff Dr,Mecklenburg,Huntersville,28078,Charlotte-Mecklenburg Schools,Public,No,0,71,175,0.4057,4583465,3713417,3857173.5,5520173.5,8540870.5,6362118
 2020,Charlotte-Mecklenburg Schools,Charlotte Mecklenburg Schools,Mecklenburg,Charlotte,28208,Charlotte-Mecklenburg Schools,Public,No,7016,52860,89954,0.5876,0,0,0,0,0,0
 2020,Sugar Creek Charter,4101 N Tryon Street,Mecklenburg,Charlotte,28206,Charter Schools,Charter,Yes,0,0,0,0,0,0,0,0,0,0
 2020,Lake Norman Charter,12435 Old Statesville Road,Mecklenburg,Huntersville,28078,Charter Schools,Charter,No,0,0,2090,0.05,0,0,0,0,0,0

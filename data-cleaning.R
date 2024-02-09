@@ -46,6 +46,7 @@ yearly_funds <- nice_funds |> na.omit() |> rowwise() |>
          funding_2021 = F21 + S21, funding_2020 = F20 + S20,
          funding_2019 = F19 + S19, funding_2018 = F18 + S18
        ) |> select(district_name, contains("funding"))
+yearly_funds$district_name[yearly_funds$district_name == "Mecklenburg County Schools"] <- "Charlotte-Mecklenburg Schools"
 
 rm(nice_funds, funds, funding)
 
