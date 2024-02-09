@@ -6,9 +6,9 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 library(readxl)
-library(dplyr)
+library(tidyverse)
 ```
 
 ```{r data read}
@@ -32,7 +32,9 @@ glimpse(concentrators)
 ```
 
 ```{r}
-data <- agencyCodes %>% left_join(credentials, by = join_by("School\r\nCode"  == agency_code))
-data <- data %>%  left_join(select(location, c()), by = join_by("School\r\nCode"  == agency_code), multiple = "first")
+data <- agencyCodes %>% left_join(credentials, 
+                                  by = join_by("School\r\nCode"  == agency_code))
+data <- data %>%  left_join(select(location, c()), 
+                            by = join_by("School\r\nCode"  == agency_code), multiple = "first")
 ```
 

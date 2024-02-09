@@ -10,8 +10,6 @@ location <- read_excel("rcd_location.xlsx")
 
 enrollment <- read_excel("rcd_cte_enrollment.xlsx")
 
-concentrators <- read_excel("rcd_cte_concentrators.xlsx")
-
 setwd("C:/nc-education-datathon-2024/Data/NC Schools")
 agencyCodes <- read_excel("2022-23 Agency Number to School Region.xlsx")
 funding <- read_csv("State_Allotment_One_PRC_Dollar.csv") |> select(4:11)
@@ -30,7 +28,7 @@ funds <- funding |>
   unnest_wider(c(column1, column2), names_sep = "_") |> 
   select("Lea Name", contains("column"))
 
-nice_funds <- funds |> 
+nice_funds <- funds |> na.omit() |> 
   rename("district_name" = "Lea Name",
          "F23" = "column1_1", "S24" = "column2_1",
          "F22" = "column1_2", "S23" = "column2_2",
@@ -43,12 +41,11 @@ nice_funds <- funds |>
 nice_funds$district_name <- paste(nice_funds$district_name, "Schools", 
                                   sep = " ")
 
-yearly_funds <- nice_funds |> rowwise() |>
-  mutate(Funding_2023 = F23 + S23, Funding_2022 = F22 + S22,
-         Funding_2021 = F21 + S21, Funding_2020 = F20 + S20,
-         Funding_2019 = F19 + S19, Funding_2018 = F18 + S18
-       ) |> 
-  select(district_name, contains("Funding"))
+yearly_funds <- nice_funds |> na.omit() |> rowwise() |>
+  mutate(funding_2023 = F23 + S23, funding_2022 = F22 + S22,
+         funding_2021 = F21 + S21, funding_2020 = F20 + S20,
+         funding_2019 = F19 + S19, funding_2018 = F18 + S18
+       ) |> select(district_name, contains("funding"))
 
 rm(nice_funds, funds, funding)
 
@@ -77,18 +74,9 @@ clean_location <- location |>
       designation_Type == "P" ~ "Public",
       TRUE ~ designation_Type),
     title_i = if_else(is.na(title_i), "No", "Yes")
-    ) |> 
-  select(year, agency_code, designation, name, county, 
-         street_addr, city, zip, title_i)
+    ) |> select(year, agency_code, designation, name, county, 
+                street_addr, city, zip, title_i) |> na.omit()
 rm(location)
-
-# concentrators cleaning ----
-clean_concentrators <- concentrators |> 
-  select(-career_cluster) |> 
-  group_by(year, agency_code) |> 
-  summarize(total_num_concentrators = sum(num_concentrators)) |> 
-  ungroup()
-rm(concentrators)
 
 # agencies cleaning ----
 clean_agencies <- agencyCodes |> 
@@ -100,31 +88,35 @@ rm(agencyCodes)
 
 # joining time ----
 years_stuff <- clean_location |> 
-  full_join(clean_concentrators, by = c("year", "agency_code")) |> 
   full_join(clean_enroll, by = c("year", "agency_code")) |> 
-  full_join(clean_creds, by = c("year", "agency_code"))
+  full_join(clean_creds, by = c("year", "agency_code")) |> 
+  filter(!is.na((designation)))
 
 school_stuff <- left_join(clean_agencies, yearly_funds, by = "district_name")
 full_data <- left_join(years_stuff, 
-                       select(school_stuff, -school_name), 
-                       by = "agency_code")
+                       select(school_stuff, -school_name), by = "agency_code")
 full_data <- full_data |> 
   filter(year > 2017) |> 
   rename("school_name" = "name") |> 
   select(year, school_name, street_addr, county, city, zip, district_name, 
-         designation, title_i, total_num_concentrators, num_creds_earned,
-         num_cte_enroll, num_stu_enroll, pct_stu_enroll, Funding_2018,
-         Funding_2019, Funding_2020, Funding_2021, Funding_2022,
-         Funding_2023)
+         designation, title_i, num_creds_earned, num_cte_enroll, 
+         num_stu_enroll, pct_stu_enroll, funding_2018, funding_2019, 
+         funding_2020, funding_2021, funding_2022, funding_2023)
 
-data_2018 <- full_data |> filter(year == 2018)
-data_2019 <- full_data |> filter(year == 2019)
-data_2020 <- full_data |> filter(year == 2020)
-data_2021 <- full_data |> filter(year == 2021)
-data_2022 <- full_data |> filter(year == 2022)
+cleaned_data <- full_data |> 
+  mutate(district_name = if_else(is.na(district_name), school_name, 
+                                 district_name)) |> 
+  filter(!is.na(street_addr)) |> 
+  mutate_all(~replace_na(., 0))
+
+data_2018 <- cleaned_data |> filter(year == 2018)
+data_2019 <- cleaned_data |> filter(year == 2019)
+data_2020 <- cleaned_data |> filter(year == 2020)
+data_2021 <- cleaned_data |> filter(year == 2021)
+data_2022 <- cleaned_data |> filter(year == 2022)
 rm(school_stuff, yearly_funds, years_stuff, clean_agencies, clean_creds,
-   clean_enroll, clean_location, clean_concentrators)
-write_csv(full_data, "final-data.csv")
+   clean_enroll, clean_location)
+write_csv(cleaned_data, "final-data.csv")
 write_csv(data_2018, "data-by-year/data_2018.csv")
 write_csv(data_2019, "data-by-year/data_2019.csv")
 write_csv(data_2020, "data-by-year/data_2020.csv")
